@@ -15,8 +15,8 @@ O css é padronizado com [BEM](https://desenvolvimentoparaweb.com/css/bem/).
 
 O Jsx é padronizado pelo eslint com configuração [standard](https://standardjs.com/).
 
-O Styled components possui um estilo global no caminho ```bash src/components/``` e as variaveis
-e estilos reutilizaveis no caminho ```bash src/UI/```
+O Styled components possui um estilo global no caminho ```src/components/``` e as variaveis
+e estilos reutilizaveis no caminho ```src/UI/```
 
 # Como rodar localmente
 
