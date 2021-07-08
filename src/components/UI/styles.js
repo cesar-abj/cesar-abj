@@ -4,3 +4,5 @@ export const animations = {
   $pulse: '',
   $bounce: ''
 }
+
+// animations

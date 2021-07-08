@@ -2,6 +2,10 @@
 
 Repositorio para treinar SCSS CSS Styled-components e React.js
 
+#### Testes
+
+Aqui tambem vou realizar alguns testes de componente com a [Biblioteca de testes react](https://testing-library.com/docs/react-testing-library/intro/)
+
 # Tecnologias
 
 - React.js
