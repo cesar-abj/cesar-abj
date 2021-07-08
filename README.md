@@ -1,6 +1,6 @@
 # Css repo training
 
-Repositorio para treinar SCSS CSS Styled-components e React.js
+Repositorio para treinar SASS CSS Styled-components e React.js
 
 #### Testes
 
