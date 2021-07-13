@@ -1,6 +1,4 @@
-# [César Augusto](https://www.linkedin.com/in/c%C3%A9sar-augusto-1459ab1b2/)
-
-Dev front end usuario de React e Sass
+# Dev front end usuario de React e Sass
 
 #### Testes
 
