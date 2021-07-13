@@ -1,15 +1,14 @@
-import React from 'react'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import React, { useContext } from 'react'
 import { GlobalStyle } from './components/GlobalStyle'
-import { Home } from './pages/Home'
+import { ThemeContext } from './providers/ThemeProvider'
+import { Home } from './components/Home'
 
 export default function App () {
+  const theme = useContext(ThemeContext)
   return (
-    <Router>
-      <Switch>
-        <GlobalStyle />
-        <Route path='/' component={<Home />} />
-      </Switch>
-    </Router>
+    <>
+      <GlobalStyle theme={theme.dark} />
+      <Home />
+    </>
   )
 }

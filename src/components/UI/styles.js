@@ -1,8 +1,8 @@
-// import styled from 'styled-components'
-
 export const animations = {
   $pulse: '',
   $bounce: ''
 }
 
-// animations
+export const borders = {
+  $border: '5px'
+}
