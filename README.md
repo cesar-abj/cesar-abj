@@ -8,7 +8,7 @@ Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react]
 
 - React.js
 - Styled components
-- Scss
+- Sass
 - Eslint
 - Jest
 
