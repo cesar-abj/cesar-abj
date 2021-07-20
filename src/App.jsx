@@ -1,14 +1,16 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import { GlobalStyle } from './components/GlobalStyle'
-import { ThemeContext } from './providers/ThemeProvider'
 import { Home } from './components/Home'
+import { ThemeSwitcher } from './components/ThemeSwitcher'
+import { useTheme } from './hooks/useTheme'
 
 export default function App () {
-  const theme = useContext(ThemeContext)
+  const theme = useTheme()
   return (
-    <>
-      <GlobalStyle theme={theme.dark} />
+    <div style={{ width: '100%' }}>
+      <ThemeSwitcher />
+      <GlobalStyle theme={theme} />
       <Home />
-    </>
+    </div >
   )
 }

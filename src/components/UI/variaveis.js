@@ -4,12 +4,12 @@ export const colors = {
   $backgroundPhotoBlue: '#51d6ff',
   $formInnerBackgroung: 'rgba(0, 0, 0, .5)',
 
-  $textLight: '#363434',
+  $textLight: '#1A1A1A',
   $cardContentBackgroundLight: '#f4f4f4',
-  $backgroundLight: '#fefefe',
+  $backgroundLight: '#FAFAFF',
   $pageDetailsLight: '#002642',
 
-  $textDark: '#EDEDED',
+  $textDark: '#FAFAFF',
   $cardContentBackgroundDark: '#EDEDED',
   $textCardDark: '#1A1A1A',
   $backgroundDark: '#444444',
