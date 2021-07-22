@@ -4,6 +4,10 @@
 
 Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react](https://testing-library.com/docs/react-testing-library/intro/)
 
+#### Aprendendo
+
+Atualmente estou focando em como usar da melhor maneira a React context API.
+
 # Tecnologias que utilizo
 
 - React.js
