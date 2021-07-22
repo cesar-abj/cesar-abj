@@ -1,4 +1,4 @@
-# Dev front end usuario de React e Sass
+# Dev front end - Reactjs e Sass
 
 #### Testes
 
@@ -10,7 +10,6 @@ Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react]
 - Styled components
 - Sass
 - Eslint
-- Jest
 
 # Patterns
 
