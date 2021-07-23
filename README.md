@@ -1,4 +1,4 @@
-# Dev front end - Reactjs e Sass
+# Dev front end
 
 #### Testes
 
