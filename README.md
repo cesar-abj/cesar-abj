@@ -2,11 +2,11 @@
 
 #### Testes
 
-Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react](https://testing-library.com/docs/react-testing-library/intro/)
+Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react](https://testing-library.com/docs/react-testing-library/intro/) e um pouco de [Cypress](https://www.cypress.io/)
 
 #### Aprendendo
 
-Atualmente estou cursando Analise e desenvolvimento de sistemas pela universidade Estacio de Sá.
+Atualmente estou cursando Análise e desenvolvimento de sistemas pela universidade Estacio de Sá.
 
 # Tecnologias que utilizo
 
