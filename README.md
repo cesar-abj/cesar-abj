@@ -6,7 +6,7 @@ Aqui vou realizar alguns testes de componente com a [Biblioteca de testes react]
 
 #### Aprendendo
 
-Atualmente estou focando em como usar da melhor maneira a React context API.
+Atualmente estou cursando Analise e desenvolvimento de sistemas pela universidade Estacio de Sá.
 
 # Tecnologias que utilizo
 
