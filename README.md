@@ -21,4 +21,4 @@ Padrões de projeto que eu utilizo geralmente.
 
 O css é padronizado com [BEM](https://desenvolvimentoparaweb.com/css/bem/).
 
-O Javascript/Typescript é padronizado pelo eslint com configuração [airbnb](https://github.com/airbnb/javascript).
+O Javascript/Typescript é padronizado pelo eslint com configuração [standard](https://github.com/standard/eslint-config-standard).
