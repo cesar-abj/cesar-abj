@@ -14,6 +14,7 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas pela universida
 - Styled components
 - Sass
 - Eslint
+- NodeJs/Express
 
 # Patterns
 
